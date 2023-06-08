@@ -6,7 +6,7 @@ A lista de empresas foi obtida a partir do artigo "As Maiores Empresas de Tecnol
 
 Conteúdo do Repositório
 
-lista_empresas.txt: Um arquivo de texto que contém a lista das empresas de tecnologia, classificadas por ordem de classificação.
+lista_empresas.csv: Um arquivo de texto que contém a lista das empresas de tecnologia, classificadas por ordem de classificação.
 
 Uso
 Este repositório pode ser útil para obter informações atualizadas sobre as maiores empresas de tecnologia em 2022 e aprender mais sobre seus negócios e áreas de atuação. Os arquivos de dados fornecidos podem ser facilmente acessados e processados por meio de scripts ou programas para análise ou pesquisa adicional.
