@@ -2,7 +2,7 @@
 Este repositório contém informações sobre as maiores empresas de tecnologia do mundo em 2022, de acordo com um artigo publicado pela Forbes Tech em maio de 2022. As empresas listadas foram classificadas com base em sua receita, valor de mercado e impacto no setor de tecnologia.
 
 Fonte de Dados
-A lista de empresas foi obtida a partir do artigo "As Maiores Empresas de Tecnologia do Mundo em 2022" publicado no site da Forbes Brasil. O link para o artigo completo pode ser encontrado aqui:[ ](https://forbes.com.br/forbes-tech/2022/05/as-maiores-empresas-de-tecnologia-do-mundo-em-2022/)
+A lista de empresas foi obtida a partir do artigo "As Maiores Empresas de Tecnologia do Mundo em 2022" publicado no site da Forbes Brasil. O link para o artigo completo pode ser encontrado aqui:(https://forbes.com.br/forbes-tech/2022/05/as-maiores-empresas-de-tecnologia-do-mundo-em-2022/)
 
 Conteúdo do Repositório
 O repositório contém os seguintes arquivos:
