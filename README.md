@@ -5,7 +5,6 @@ Fonte de Dados
 A lista de empresas foi obtida a partir do artigo "As Maiores Empresas de Tecnologia do Mundo em 2022" publicado no site da Forbes Brasil. O link para o artigo completo pode ser encontrado aqui:(https://forbes.com.br/forbes-tech/2022/05/as-maiores-empresas-de-tecnologia-do-mundo-em-2022/)
 
 Conteúdo do Repositório
-O repositório contém os seguintes arquivos:
 
 lista_empresas.txt: Um arquivo de texto que contém a lista das empresas de tecnologia, classificadas por ordem de classificação.
 
